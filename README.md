@@ -20,7 +20,7 @@ This website showcases the salon’s services, gallery, testimonials, and easy W
 
 ## Home Page
 
-![Hero Screenshot](./assets/hero-screenshot.png)
+![Hero Screenshot](./assets/HomePage.png)
 
 ---
 
