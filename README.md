@@ -20,7 +20,7 @@ This website showcases the salon’s services, gallery, testimonials, and easy W
 
 ## Home Page
 
-![HomePage](./assets/HomePage.png)
+![HomePage](/assets/HomePage.png)
 
 ---
 
