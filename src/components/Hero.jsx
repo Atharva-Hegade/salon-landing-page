@@ -21,7 +21,7 @@ const Hero = () => {
           </Link>
           <a href="https://wa.me/91XXXXXXXXXX" target="_blank" rel="noopener noreferrer">
             <button className="bg-pink-500 text-white px-2 py-0.5 rounded-full hover:bg-pink-600 text-xs md:px-4 md:py-1 md:text-base">
-              Book on WhatsApp
+              Book Now
             </button>
           </a>
     </div>
