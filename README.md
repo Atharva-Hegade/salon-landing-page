@@ -16,11 +16,6 @@ This website showcases the salon’s services, gallery, testimonials, and easy W
 - 🌐 Fully responsive and mobile-friendly
 - 🧩 Built with **React + Tailwind CSS + Vite**
 
----
-
-## Home Page
-
-![HomePage](assets/HomePage.jpg)
 
 ---
 
